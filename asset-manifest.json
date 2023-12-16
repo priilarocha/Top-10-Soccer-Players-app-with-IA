@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/players/static/css/main.9150aace.css",
-    "main.js": "/players/static/js/main.68f12e5f.js",
-    "index.html": "/players/index.html",
-    "main.9150aace.css.map": "/players/static/css/main.9150aace.css.map",
-    "main.68f12e5f.js.map": "/players/static/js/main.68f12e5f.js.map"
+    "main.css": "/Top-10-Soccer-Players-app-with-IA/static/css/main.9150aace.css",
+    "main.js": "/Top-10-Soccer-Players-app-with-IA/static/js/main.68f12e5f.js",
+    "index.html": "/Top-10-Soccer-Players-app-with-IA/index.html",
+    "main.9150aace.css.map": "/Top-10-Soccer-Players-app-with-IA/static/css/main.9150aace.css.map",
+    "main.68f12e5f.js.map": "/Top-10-Soccer-Players-app-with-IA/static/js/main.68f12e5f.js.map"
   },
   "entrypoints": [
     "static/css/main.9150aace.css",
